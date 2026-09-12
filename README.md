@@ -1,4 +1,3 @@
-# Linux-overthewire-bandit-writeups
 # OverTheWire Bandit Writeups
 
 My personal writeups for the OverTheWire Bandit wargame.
